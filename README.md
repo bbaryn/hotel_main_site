@@ -1,1 +1,1 @@
-# hotel_main_site
+# hotel_main_site using pureCSS and flexbox
